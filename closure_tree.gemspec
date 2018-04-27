@@ -1,5 +1,6 @@
 $LOAD_PATH.push File.expand_path('../lib', __FILE__)
 require 'closure_tree/version'
+require 'english'
 
 Gem::Specification.new do |gem|
   gem.name        = 'closure_tree'
